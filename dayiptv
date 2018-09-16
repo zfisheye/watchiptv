@@ -1,979 +1,842 @@
 #EXTM3U
-#EXTINF:-1,IT: RAI 1 HD
-http://217.182.173.184:8000/live/micha/micha/3049.ts
-#EXTINF:-1,IT: RAI 2 HD
-http://217.182.173.184:8000/live/micha/micha/3042.ts
+#EXTINF:-1,|IT| Sky Cinema UNO HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1749.ts
+#EXTINF:-1,|IT| Sky Cinema Passion HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1742.ts
+#EXTINF:-1,|IT| Sky Cinema MAX HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1743.ts
+#EXTINF:-1,|IT| Sky Cinema Max  1 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1724.ts
+#EXTINF:-1,|IT| Sky Cinema Hits HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1744.ts
+#EXTINF:-1,|IT| Sky Cinema Family HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1745.ts
+#EXTINF:-1,|IT| Sky Cinema Cult HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1746.ts
+#EXTINF:-1,|IT| Sky Cinema Comedy HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1747.ts
+#EXTINF:-1,|IT| Sky Cinema Classics
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1727.ts
+#EXTINF:-1,|IT| Sky Cinema 24 HD IT
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1748.ts
+#EXTINF:-1,|IT| Sky Calcio1
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1750.ts
+#EXTINF:-1,|IT| Sky Calcio 9 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1828.ts
+#EXTINF:-1,|IT| Sky Calcio 8 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1827.ts
+#EXTINF:-1,|IT| Sky Calcio 7 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1826.ts
+#EXTINF:-1,|IT| Sky Calcio 6 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1728.ts
+#EXTINF:-1,|IT| Sky Calcio 5 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1729.ts
+#EXTINF:-1,|IT| Sky Calcio 4 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1730.ts
+#EXTINF:-1,|IT| Sky Calcio 3 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1751.ts
+#EXTINF:-1,|IT| Sky Calcio 2 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1752.ts
+#EXTINF:-1,|IT| Sky Calcio 10 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1825.ts
+#EXTINF:-1,|IT| Sky Calcio 1 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1753.ts
+#EXTINF:-1,|IT| Sky Atlantic HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1754.ts
+#EXTINF:-1,|IT| Sky Arte HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1755.ts
+#EXTINF:-1,|IT| Rete 4
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1759.ts
+#EXTINF:-1,|IT| Real Time HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1824.ts
+#EXTINF:-1,|IT| Rai yoyo IT
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1823.ts
+#EXTINF:-1,|IT| Rai Scuola
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1822.ts
+#EXTINF:-1,|IT| Rai News 24
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1756.ts
+#EXTINF:-1,|IT| Rai Movie
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1757.ts
+#EXTINF:-1,|IT| Rai Gulp
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1758.ts
+#EXTINF:-1,|IT| Rai 3 (IT)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1760.ts
+#EXTINF:-1,|IT| Rai 2
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1761.ts
+#EXTINF:-1,|IT| Rai 1
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1762.ts
+#EXTINF:-1,|IT| Premium Studio Universal
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1771.ts
+#EXTINF:-1,|IT| Premium Stories
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1772.ts
+#EXTINF:-1,|IT| Premium Joy
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1773.ts
+#EXTINF:-1,|IT| Premium Emotion
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1775.ts
+#EXTINF:-1,|IT| Premium Crime  24
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1776.ts
+#EXTINF:-1,|IT| Premium Crime
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1777.ts
+#EXTINF:-1,|IT| Premium Cinema Comedy
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1778.ts
+#EXTINF:-1,|IT| Premium Cinema
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1779.ts
+#EXTINF:-1,|IT| Premium Cartoon Network
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1780.ts
+#EXTINF:-1,|IT| Premium Calcio 3
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1764.ts
+#EXTINF:-1,|IT| Premium Calcio 2
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1765.ts
+#EXTINF:-1,|IT| Net Geo people HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1767.ts
+#EXTINF:-1,|IT| National Georgaphic HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1768.ts
+#EXTINF:-1,|IT| Nat Geo Wild HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1769.ts
+#EXTINF:-1,|IT| Milan Channel
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1723.ts
+#EXTINF:-1,|IT| Mediaset Extra
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1821.ts
+#EXTINF:-1,|IT| MARCOPOLO
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1820.ts
+#EXTINF:-1,|IT| MANGA IT
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1819.ts
+#EXTINF:-1,|IT| lazio channel
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1817.ts
+#EXTINF:-1,|IT| LA 7
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1770.ts
+#EXTINF:-1,|IT| K2 IT
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1818.ts
+#EXTINF:-1,|IT| Inter
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1781.ts
+#EXTINF:-1,|IT| History HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1782.ts
+#EXTINF:-1,|IT| Giallo
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1816.ts
+#EXTINF:-1,|IT| Gambero rosso
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1783.ts
+#EXTINF:-1,|IT| Frisbee IT
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1815.ts
+#EXTINF:-1,|IT| Fox Sport 1HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1784.ts
+#EXTINF:-1,|IT| Fox Life
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1785.ts
+#EXTINF:-1,|IT| Fox HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1786.ts
+#EXTINF:-1,|IT| Fox Crime
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1787.ts
+#EXTINF:-1,|IT| Fox Comedy HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1788.ts
+#EXTINF:-1,|IT| Fox Animation HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1789.ts
+#EXTINF:-1,|IT| Focus IT
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1814.ts
+#EXTINF:-1,|IT| Fine living
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1813.ts
+#EXTINF:-1,|IT| Eurosport HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1790.ts
+#EXTINF:-1,|IT| Eurosport 2HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1791.ts
+#EXTINF:-1,|IT| DMAX HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1792.ts
+#EXTINF:-1,|IT| Disney XD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1722.ts
+#EXTINF:-1,|IT| Disney HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1793.ts
+#EXTINF:-1,|IT| Discovery Travel & Living HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1721.ts
+#EXTINF:-1,|IT| Discovery Science HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1812.ts
+#EXTINF:-1,|IT| Discovery HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1794.ts
+#EXTINF:-1,|IT| Dea Kids
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1811.ts
+#EXTINF:-1,|IT| Dea Junior
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1810.ts
+#EXTINF:-1,|IT| Crime & Investigation HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1801.ts
+#EXTINF:-1,|IT| Comedy Central Italy
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1809.ts
+#EXTINF:-1,|IT| CLASSICA HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1808.ts
+#EXTINF:-1,|IT| Cielo
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1802.ts
+#EXTINF:-1,|IT| Cartoonito IT
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1731.ts
+#EXTINF:-1,|IT| Canale 5 IT
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1803.ts
+#EXTINF:-1,|IT| CACCIA e Pesca
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1807.ts
+#EXTINF:-1,|IT| Boing
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1806.ts
+#EXTINF:-1,|IT| Bike Channel Italy
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1805.ts
+#EXTINF:-1,|IT| AXN HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1804.ts
+#EXTINF:-1,|IT| Alice IT
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1725.ts
+#EXTINF:-1,IT Premium Cinema Energy
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1774.ts
+#EXTINF:-1,|IT|Sky-Net-Sport6
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1795.ts
+#EXTINF:-1,|IT|Sky-Net-Sport5
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1796.ts
+#EXTINF:-1,|IT|Sky-Net-Sport4
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1797.ts
+#EXTINF:-1,|IT|Sky-Net-Sport3
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1798.ts
+#EXTINF:-1,|IT|Sky-Net-Sport2
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1799.ts
+#EXTINF:-1,|IT|Sky-Net-Sport1
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1800.ts
+#EXTINF:-1,|IT|Sky Primafila 1 HD IT
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1740.ts
+#EXTINF:-1,|IT| Super!
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1829.ts
+#EXTINF:-1,|IT| Super Tennis HD (IT)
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1732.ts
+#EXTINF:-1,|IT| Sky Uno HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1733.ts
+#EXTINF:-1,|IT| Sky TG 24HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1734.ts
+#EXTINF:-1,|IT| Sky Super Calcio HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1766.ts
+#EXTINF:-1,|IT| Sky sport plus HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1726.ts
+#EXTINF:-1,|IT| Sky Sport F1 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1735.ts
+#EXTINF:-1,|IT| Sky sport 3HD IT
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1736.ts
+#EXTINF:-1,|IT| Sky Sport 24HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1737.ts
+#EXTINF:-1,|IT| Sky sport 2 HD IT
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1738.ts
+#EXTINF:-1,|IT| Sky sport 1 HD
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1739.ts
+#EXTINF:-1,|IT| Sky moto gp
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/1741.ts
+
+#EXTINF:-1,IT_Sky Tg24
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/841.ts
+#EXTINF:-1,IT_SKY SUPER CALCIO HD
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/718.ts
+#EXTINF:-1,IT_Sky Sport 3 HD
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/248.ts
+#EXTINF:-1,IT_Sky Sport 2 HD
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/247.ts
+#EXTINF:-1,IT_Sky Sport 1 HD
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/246.ts
+#EXTINF:-1,IT_Sky Cinema Max HD
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/241.ts
+#EXTINF:-1,IT_Sky Cinema Hits HD
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/242.ts
+#EXTINF:-1,IT_Sky Cinema Family HD
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/244.ts
+#EXTINF:-1,IT_Sky Cinema Comedy HD
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/243.ts
+#EXTINF:-1,IT_Sky Cinema Classic HD
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/245.ts
+#EXTINF:-1,IT_SKY CALCIO 2 HD
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/721.ts
+#EXTINF:-1,IT_SKY CALCIO 1 HD
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/720.ts
+#EXTINF:-1,IT_RTV 38
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/846.ts
+#EXTINF:-1,IT_RSI La2 HD
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/1808.ts
+#EXTINF:-1,IT_RSI La1 HD
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/1807.ts
+#EXTINF:-1,IT_ROMA TV
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/717.ts
+#EXTINF:-1,IT_RAi YoYo
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/834.ts
+#EXTINF:-1,IT_Rai Storia
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/833.ts
+#EXTINF:-1,IT_Rai Premium
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/836.ts
+#EXTINF:-1,IT_Rai News 24
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/829.ts
+#EXTINF:-1,IT_RAI News
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/827.ts
+#EXTINF:-1,IT_Rai Movie
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/832.ts
+#EXTINF:-1,IT_Rai Gulp
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/830.ts
+#EXTINF:-1,IT_Rai 5 HD
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/107.ts
+#EXTINF:-1,IT_Rai 4 HD
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/106.ts
+#EXTINF:-1,IT_Rai 3 HD
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/105.ts
+#EXTINF:-1,IT_Rai 2 HD
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/195.ts
+#EXTINF:-1,IT_Rai 1 HD
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/104.ts
+#EXTINF:-1,IT_PRIMAFILA 8
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/992.ts
+#EXTINF:-1,IT_PRIMAFILA 7
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/991.ts
+#EXTINF:-1,IT_PRIMAFILA 6
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/990.ts
+#EXTINF:-1,IT_PRIMAFILA 5
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/293.ts
+#EXTINF:-1,IT_PRIMAFILA 4
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/292.ts
+#EXTINF:-1,IT_PRIMAFILA 3
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/291.ts
+#EXTINF:-1,IT_PRIMAFILA 2
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/290.ts
+#EXTINF:-1,IT_PRIMAFILA 1
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/289.ts
+#EXTINF:-1,IT_PREMIUM SPORT
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/722.ts
+#EXTINF:-1,IT_Premium Energy HD
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/108.ts
+#EXTINF:-1,IT_Premium Emotion HD
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/109.ts
+#EXTINF:-1,IT_Premium Disney Channel
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/110.ts
+#EXTINF:-1,IT_Premium Crime HD
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/111.ts
+#EXTINF:-1,IT_Premium Comedy HD
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/112.ts
+#EXTINF:-1,IT_Premium Cinema HD
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/113.ts
+#EXTINF:-1,IT_Premium Action  24 HD
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/114.ts
+#EXTINF:-1,IT_N/A
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/844.ts
+#EXTINF:-1,IT_MILAN CHANNEL
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/716.ts
+#EXTINF:-1,IT_m20 TV
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/843.ts
+#EXTINF:-1,IT_LA_7_HD
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/346.ts
+#EXTINF:-1,IT_La 5
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/1809.ts
+#EXTINF:-1,IT_Italia_2_HD
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/347.ts
+#EXTINF:-1,IT_Italia_1_HD
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/348.ts
+#EXTINF:-1,IT_INTER CHANNEL
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/715.ts
+#EXTINF:-1,IT_EUROSPORT 1
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/714.ts
+#EXTINF:-1,IT_Discovery Travel Living HD
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/1813.ts
+#EXTINF:-1,IT_Discovery HD
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/1812.ts
+#EXTINF:-1,IT_Canale_5_HD
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/349.ts
+
+#EXTINF:-1,IT | Alice
+http://iptv-red.com:8080/live/engincetiner/131217xy/11198.ts
+#EXTINF:-1,IT | AnimalPlanet
+http://iptv-red.com:8080/live/engincetiner/131217xy/11175.ts
+#EXTINF:-1,IT | CANALE 5
+http://iptv-red.com:8080/live/engincetiner/131217xy/11135.ts
+#EXTINF:-1,IT | CARTOONITO
+http://iptv-red.com:8080/live/engincetiner/131217xy/11162.ts
+#EXTINF:-1,IT | Cielo
+http://iptv-red.com:8080/live/engincetiner/131217xy/11197.ts
+#EXTINF:-1,IT | Discovery Channel HD
+http://iptv-red.com:8080/live/engincetiner/131217xy/11136.ts
+#EXTINF:-1,IT | DiscoverySci HD
+http://iptv-red.com:8080/live/engincetiner/131217xy/11174.ts
+#EXTINF:-1,IT | Fox Comedy HD
+http://iptv-red.com:8080/live/engincetiner/131217xy/11192.ts
+#EXTINF:-1,IT | Fox Crime HD
+http://iptv-red.com:8080/live/engincetiner/131217xy/11137.ts
+#EXTINF:-1,IT | FOX Sport HD
+http://iptv-red.com:8080/live/engincetiner/131217xy/11167.ts
+#EXTINF:-1,IT | Fox.
+http://iptv-red.com:8080/live/engincetiner/131217xy/11191.ts
+#EXTINF:-1,IT | History
+http://iptv-red.com:8080/live/engincetiner/131217xy/11138.ts
+#EXTINF:-1,IT | Italia1
+http://iptv-red.com:8080/live/engincetiner/131217xy/11200.ts
+#EXTINF:-1,IT | La7
+http://iptv-red.com:8080/live/engincetiner/131217xy/11139.ts
+#EXTINF:-1,IT | Mediasat Extra
+http://iptv-red.com:8080/live/engincetiner/131217xy/11181.ts
+#EXTINF:-1,IT | Mediaset Iris
+http://iptv-red.com:8080/live/engincetiner/131217xy/11140.ts
+#EXTINF:-1,IT | MEDIASET TOP CRIME
+http://iptv-red.com:8080/live/engincetiner/131217xy/11141.ts
+#EXTINF:-1,IT | Nat Geo Wild
+http://iptv-red.com:8080/live/engincetiner/131217xy/11176.ts
+#EXTINF:-1,IT | National Geo HD
+http://iptv-red.com:8080/live/engincetiner/131217xy/11142.ts
+#EXTINF:-1,IT | Premium Action
+http://iptv-red.com:8080/live/engincetiner/131217xy/11189.ts
+#EXTINF:-1,IT | Premium Calcio 1 HD
+http://iptv-red.com:8080/live/engincetiner/131217xy/11173.ts
+#EXTINF:-1,IT | Premium Calcio 2 HD
+http://iptv-red.com:8080/live/engincetiner/131217xy/11163.ts
+#EXTINF:-1,IT | Premium Cinema 24
+http://iptv-red.com:8080/live/engincetiner/131217xy/11187.ts
+#EXTINF:-1,IT | Premium Cinema HD
+http://iptv-red.com:8080/live/engincetiner/131217xy/11193.ts
+#EXTINF:-1,IT | Premium Cinema2 HD
+http://iptv-red.com:8080/live/engincetiner/131217xy/11188.ts
+#EXTINF:-1,IT | Premium Crime HD
+http://iptv-red.com:8080/live/engincetiner/131217xy/11186.ts
+#EXTINF:-1,IT | Premium Emotion
+http://iptv-red.com:8080/live/engincetiner/131217xy/11178.ts
+#EXTINF:-1,IT | Premium Studio Universal
+http://iptv-red.com:8080/live/engincetiner/131217xy/11177.ts
+#EXTINF:-1,IT | PremiumCrime24
+http://iptv-red.com:8080/live/engincetiner/131217xy/11179.ts
+#EXTINF:-1,IT | PremiumDisneyJunior
+http://iptv-red.com:8080/live/engincetiner/131217xy/11165.ts
+#EXTINF:-1,IT | PremiumEnergy
+http://iptv-red.com:8080/live/engincetiner/131217xy/11185.ts
+#EXTINF:-1,IT | PremiumEuroSport1
+http://iptv-red.com:8080/live/engincetiner/131217xy/11144.ts
+#EXTINF:-1,IT | PremiumEuroSport2
+http://iptv-red.com:8080/live/engincetiner/131217xy/11143.ts
+#EXTINF:-1,IT | PremiumSport
+http://iptv-red.com:8080/live/engincetiner/131217xy/11166.ts
+#EXTINF:-1,IT | Rai 2
+http://iptv-red.com:8080/live/engincetiner/131217xy/11206.ts
+#EXTINF:-1,IT | Rai 3
+http://iptv-red.com:8080/live/engincetiner/131217xy/11205.ts
+#EXTINF:-1,IT | Rai 4
+http://iptv-red.com:8080/live/engincetiner/131217xy/11204.ts
+#EXTINF:-1,IT | Rai 5
+http://iptv-red.com:8080/live/engincetiner/131217xy/11203.ts
+#EXTINF:-1,IT | Rai Gulp
+http://iptv-red.com:8080/live/engincetiner/131217xy/11202.ts
+#EXTINF:-1,IT | Rai Movie
+http://iptv-red.com:8080/live/engincetiner/131217xy/11194.ts
+#EXTINF:-1,IT | Rai Premium
+http://iptv-red.com:8080/live/engincetiner/131217xy/11207.ts
+#EXTINF:-1,IT | Rai sport
+http://iptv-red.com:8080/live/engincetiner/131217xy/11199.ts
+#EXTINF:-1,IT | Rai Yoyo
+http://iptv-red.com:8080/live/engincetiner/131217xy/11201.ts
+#EXTINF:-1,IT | Rai1
+http://iptv-red.com:8080/live/engincetiner/131217xy/11183.ts
+#EXTINF:-1,IT | RETE 4 HD
+http://iptv-red.com:8080/live/engincetiner/131217xy/11180.ts
+#EXTINF:-1,IT | Sky Calcio 1
+http://iptv-red.com:8080/live/engincetiner/131217xy/11150.ts
+#EXTINF:-1,IT | Sky Calcio 5
+http://iptv-red.com:8080/live/engincetiner/131217xy/11146.ts
+#EXTINF:-1,IT | Sky Cinema 1HD
+http://iptv-red.com:8080/live/engincetiner/131217xy/11182.ts
+#EXTINF:-1,IT | Sky Cinema Family HD
+http://iptv-red.com:8080/live/engincetiner/131217xy/11196.ts
+#EXTINF:-1,IT | Sky Cinema Hits
+http://iptv-red.com:8080/live/engincetiner/131217xy/11184.ts
+#EXTINF:-1,IT | Sky Cinema Max
+http://iptv-red.com:8080/live/engincetiner/131217xy/11190.ts
+#EXTINF:-1,IT | Sky Sport 1 HD
+http://iptv-red.com:8080/live/engincetiner/131217xy/11172.ts
+#EXTINF:-1,IT | Sky Sport 2 HD
+http://iptv-red.com:8080/live/engincetiner/131217xy/11171.ts
+#EXTINF:-1,IT | Sky Sport 3 HD
+http://iptv-red.com:8080/live/engincetiner/131217xy/11170.ts
+#EXTINF:-1,IT | Sky Sport F1 HD
+http://iptv-red.com:8080/live/engincetiner/131217xy/11169.ts
+#EXTINF:-1,IT | Sky Uno
+http://iptv-red.com:8080/live/engincetiner/131217xy/11195.ts
+#EXTINF:-1,IT | SkyCalcio2
+http://iptv-red.com:8080/live/engincetiner/131217xy/11149.ts
+#EXTINF:-1,IT | SkyCalcio3
+http://iptv-red.com:8080/live/engincetiner/131217xy/11148.ts
+#EXTINF:-1,IT | SkyCalcio4
+http://iptv-red.com:8080/live/engincetiner/131217xy/11147.ts
+#EXTINF:-1,IT | SkyCalcio6
+http://iptv-red.com:8080/live/engincetiner/131217xy/11145.ts
+#EXTINF:-1,IT | SkyPrimafila1
+http://iptv-red.com:8080/live/engincetiner/131217xy/11161.ts
+#EXTINF:-1,IT | SkyPrimafila10
+http://iptv-red.com:8080/live/engincetiner/131217xy/11152.ts
+#EXTINF:-1,IT | SkyPrimafila2
+http://iptv-red.com:8080/live/engincetiner/131217xy/11160.ts
+#EXTINF:-1,IT | SkyPrimafila3
+http://iptv-red.com:8080/live/engincetiner/131217xy/11159.ts
+#EXTINF:-1,IT | SkyPrimafila4
+http://iptv-red.com:8080/live/engincetiner/131217xy/11158.ts
+#EXTINF:-1,IT | SkyPrimafila5
+http://iptv-red.com:8080/live/engincetiner/131217xy/11157.ts
+#EXTINF:-1,IT | SkyPrimafila6
+http://iptv-red.com:8080/live/engincetiner/131217xy/11156.ts
+#EXTINF:-1,IT | SkyPrimafila7
+http://iptv-red.com:8080/live/engincetiner/131217xy/11155.ts
+#EXTINF:-1,IT | SkyPrimafila8
+http://iptv-red.com:8080/live/engincetiner/131217xy/11154.ts
+#EXTINF:-1,IT | SkyPrimafila9
+http://iptv-red.com:8080/live/engincetiner/131217xy/11153.ts
+#EXTINF:-1,IT | SkySuperCalcio
+http://iptv-red.com:8080/live/engincetiner/131217xy/11151.ts
+#EXTINF:-1,IT | SkyTG24
+http://iptv-red.com:8080/live/engincetiner/131217xy/11164.ts
+#EXTINF:-1,IT | Super Tennis
+http://iptv-red.com:8080/live/engincetiner/131217xy/11168.ts
+
+#EXTINF:-1,IT::-Cielo
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8486.ts
+#EXTINF:-1,IT::-Discovery-Channel
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8488.ts
+#EXTINF:-1,IT::-Discovery-Sci
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8487.ts
+#EXTINF:-1,IT::-La7
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8489.ts
+#EXTINF:-1,IT::-Premium-Action-24
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8514.ts
+#EXTINF:-1,IT::-PREMIUM-Calcio1
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8500.ts
+#EXTINF:-1,IT::-PREMIUM-Calcio2
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8499.ts
+#EXTINF:-1,IT::-PREMIUM-Calcio3
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8498.ts
+#EXTINF:-1,IT::-PREMIUM-Calcio4
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8497.ts
+#EXTINF:-1,IT::-PREMIUM-Calcio5
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8496.ts
+#EXTINF:-1,IT::-Premium-Cinema1
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8513.ts
+#EXTINF:-1,IT::-Premium-Cinema1-24
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8512.ts
+#EXTINF:-1,IT::-Premium-Cinema2
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8511.ts
+#EXTINF:-1,IT::-Premium-Cinema2-24
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8510.ts
+#EXTINF:-1,IT::-Premium-Comedy
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8509.ts
+#EXTINF:-1,IT::-Premium-Crime
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8508.ts
+#EXTINF:-1,IT::-Premium-Crime24
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8507.ts
+#EXTINF:-1,IT::-Premium-Emotion
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8506.ts
+#EXTINF:-1,IT::-Premium-Energy
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8505.ts
+#EXTINF:-1,IT::-Premium-Joi
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8504.ts
+#EXTINF:-1,IT::-Premium-Sport
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8503.ts
+#EXTINF:-1,IT::-Premium-Stories
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8502.ts
+#EXTINF:-1,IT::-Premium-Studio-Universal
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8501.ts
+#EXTINF:-1,IT::-Rai-Gulp
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8520.ts
+#EXTINF:-1,IT::-Rai-Movie
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8519.ts
+#EXTINF:-1,IT::-Rai-News24
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8522.ts
+#EXTINF:-1,IT::-Rai-Premium
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8518.ts
+#EXTINF:-1,IT::-Rai-Scuola
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8517.ts
+#EXTINF:-1,IT::-RAI-SPORT1
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8516.ts
+#EXTINF:-1,IT::-RAI-SPORT2
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8515.ts
+#EXTINF:-1,IT::-Rai-YoYo
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8521.ts
+#EXTINF:-1,IT::-Rai1
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8527.ts
+#EXTINF:-1,IT::-Rai2
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8526.ts
+#EXTINF:-1,IT::-Rai3
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8525.ts
+#EXTINF:-1,IT::-Rai4
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8524.ts
+#EXTINF:-1,IT::-Rai5
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8523.ts
+#EXTINF:-1,IT::-RETE-4
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8483.ts
+#EXTINF:-1,IT::-RSI-La1
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8485.ts
+#EXTINF:-1,IT::-RSI-La2
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8484.ts
+#EXTINF:-1,IT::-Sky-Cinema-classic
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8495.ts
+#EXTINF:-1,IT::-Sky-Cinema-Comedy
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8492.ts
+#EXTINF:-1,IT::-SKY-CINEMA-CULT
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8494.ts
+#EXTINF:-1,IT::-Sky-Cinema-MAX
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8493.ts
+#EXTINF:-1,IT::-SKY-NAT-GEO-WILD
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8491.ts
+#EXTINF:-1,IT::-Sky-Primafila1
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8490.ts
+#EXTINF:-1,IT::-Sport-Italia
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8482.ts
+
+#EXTINF:-1,IT :Premium Cinema  24
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3417.ts
+#EXTINF:-1,IT :Rai 2 HD
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3418.ts
+#EXTINF:-1,IT :Rai 4
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3419.ts
+#EXTINF:-1,IT :Rai Move
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3420.ts
+#EXTINF:-1,IT: FOX Life IT
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3375.ts
+#EXTINF:-1,IT: Premium Action 24
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3372.ts
+#EXTINF:-1,IT: Premium Cinema
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3377.ts
+#EXTINF:-1,IT: Premium Cinema 2
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3370.ts
+#EXTINF:-1,IT: Rai 1
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3382.ts
+#EXTINF:-1,IT: Rai 2
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3385.ts
+#EXTINF:-1,IT: RAI 5
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3381.ts
+#EXTINF:-1,IT: Rai Movie
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3387.ts
+#EXTINF:-1,IT: Rai Premium
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3388.ts
+#EXTINF:-1,IT: Rai YoYo
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3390.ts
+#EXTINF:-1,IT: Sky Cinema Hits HD
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3395.ts
+#EXTINF:-1,IT: Sky Sport 1 HD
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3389.ts
+#EXTINF:-1,RAI 1
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3400.ts
+#EXTINF:-1,RAI 3
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3407.ts
+#EXTINF:-1,RAI 5
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3592.ts
+#EXTINF:-1,RAI 4 .
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3406.ts
+#EXTINF:-1,IT: SKYFOX
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3378.ts
+#EXTINF:-1,IT: SUPER CALCIO HD
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3383.ts
+#EXTINF:-1,IT: Tgcom24
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3380.ts
+#EXTINF:-1,IT: TOP Crime
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3379.ts
+#EXTINF:-1,IT:Canale 5 HD
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3421.ts
+#EXTINF:-1,IT:Italia1
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3394.ts
+#EXTINF:-1,IT:Premium Cinema Comedy
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3422.ts
+#EXTINF:-1,IT:Premium Crime HD
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3423.ts
+#EXTINF:-1,IT:Rai 1 HD
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3424.ts
+#EXTINF:-1,IT:Sky Atlantic
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3425.ts
+#EXTINF:-1,IT:Sky Cinema 1 HD
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3426.ts
+#EXTINF:-1,IT:Sky Cinema MAX
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3368.ts
+#EXTINF:-1,IT:Sky Sport 3 HD
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3384.ts
+#EXTINF:-1,Italia 1
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3401.ts
+
+#EXTINF:-1,IT: Rai 2 HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11815.ts
 #EXTINF:-1,IT: Rai 3 HD
-http://217.182.173.184:8000/live/micha/micha/10525.ts
-#EXTINF:-1,IT: RAI 4
-http://217.182.173.184:8000/live/micha/micha/3044.ts
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11814.ts
 #EXTINF:-1,IT: Rai 5
-http://217.182.173.184:8000/live/micha/micha/3043.ts
-#EXTINF:-1,IT: Rai Gulp
-http://217.182.173.184:8000/live/micha/micha/3050.ts
-#EXTINF:-1,IT: RAI Movie
-http://217.182.173.184:8000/live/micha/micha/3045.ts
-#EXTINF:-1,IT: Rai News 24
-http://217.182.173.184:8000/live/micha/micha/3051.ts
-#EXTINF:-1,IT: RAI Premium
-http://217.182.173.184:8000/live/micha/micha/3046.ts
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11784.ts
+#EXTINF:-1,IT: RAI  1 HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11816.ts
+#EXTINF:-1,IT: RAI GULP
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14257.ts
+#EXTINF:-1,IT: Rai Movie
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/13073.ts
+#EXTINF:-1,IT: Rai Movie HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11783.ts
+#EXTINF:-1,IT: RAI NEWS 24
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14239.ts
+#EXTINF:-1,IT: RAI PREMIUM
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15600.ts
+#EXTINF:-1,IT: Rai Premium HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11782.ts
 #EXTINF:-1,IT: Rai Scuola
-http://217.182.173.184:8000/live/micha/micha/3047.ts
-#EXTINF:-1,IT: RAI Storia
-http://217.182.173.184:8000/live/micha/micha/3048.ts
-#EXTINF:-1,IT: Rai yoyo
-http://217.182.173.184:8000/live/micha/micha/3052.ts
-#EXTINF:-1,IT: Rai Sport
-http://217.182.173.184:8000/live/micha/micha/10526.ts
-#EXTINF:-1,IT: Rai Sport   HD
-http://217.182.173.184:8000/live/micha/micha/10527.ts
-#EXTINF:-1,IT: Alice
-http://217.182.173.184:8000/live/micha/micha/10549.ts
-#EXTINF:-1,IT: DMAX HD
-http://217.182.173.184:8000/live/micha/micha/10546.ts
-#EXTINF:-1,IT: Fox Life HD
-http://217.182.173.184:8000/live/micha/micha/10545.ts
-#EXTINF:-1,IT: GALICIA AMERICA
-http://217.182.173.184:8000/live/micha/micha/10544.ts
-#EXTINF:-1,IT: INTER CHANNEL
-http://217.182.173.184:8000/live/micha/micha/10540.ts
-#EXTINF:-1,IT: Italia 1 HD
-http://217.182.173.184:8000/live/micha/micha/10506.ts
-#EXTINF:-1,IT: K2
-http://217.182.173.184:8000/live/micha/micha/10528.ts
-#EXTINF:-1,IT: Lazio channel
-http://217.182.173.184:8000/live/micha/micha/10541.ts
-#EXTINF:-1,IT: Mediaset 1 HD
-http://217.182.173.184:8000/live/micha/micha/10543.ts
-#EXTINF:-1,IT: NOVE TV
-http://217.182.173.184:8000/live/micha/micha/10530.ts
-#EXTINF:-1,IT: Pescare e Cacciare
-http://217.182.173.184:8000/live/micha/micha/10524.ts
-#EXTINF:-1,IT: PREMIUM CALCIO
-http://217.182.173.184:8000/live/micha/micha/2979.ts
-#EXTINF:-1,IT: Premium Calcio 1 HD
-http://217.182.173.184:8000/live/micha/micha/10509.ts
-#EXTINF:-1,IT: Premium Calcio 1
-http://217.182.173.184:8000/live/micha/micha/10508.ts
-#EXTINF:-1,IT: Premium Calcio 2
-http://217.182.173.184:8000/live/micha/micha/2980.ts
-#EXTINF:-1,IT: Premium Calcio 3
-http://217.182.173.184:8000/live/micha/micha/2981.ts
-#EXTINF:-1,IT: Premium Calcio 4
-http://217.182.173.184:8000/live/micha/micha/10510.ts
-#EXTINF:-1,IT: Premium Calcio 5
-http://217.182.173.184:8000/live/micha/micha/2982.ts
-#EXTINF:-1,IT: Premium Calcio 6
-http://217.182.173.184:8000/live/micha/micha/10511.ts
-#EXTINF:-1,IT: Premium Cartoon Network
-http://217.182.173.184:8000/live/micha/micha/10512.ts
-#EXTINF:-1,IT: Premium  Energy  24
-http://217.182.173.184:8000/live/micha/micha/10507.ts
-#EXTINF:-1,IT: Premium Cinema   24
-http://217.182.173.184:8000/live/micha/micha/10513.ts
-#EXTINF:-1,IT: Premium Cinema 2  24
-http://217.182.173.184:8000/live/micha/micha/10514.ts
-#EXTINF:-1,IT: Premium Cinema HD
-http://217.182.173.184:8000/live/micha/micha/10515.ts
-#EXTINF:-1,IT: Premium Comedy
-http://217.182.173.184:8000/live/micha/micha/10516.ts
-#EXTINF:-1,IT: Premium Crime HD
-http://217.182.173.184:8000/live/micha/micha/10517.ts
-#EXTINF:-1,IT: Premium Emotion
-http://217.182.173.184:8000/live/micha/micha/10518.ts
-#EXTINF:-1,IT: Premium Energy HD
-http://217.182.173.184:8000/live/micha/micha/10519.ts
-#EXTINF:-1,IT: Premium Investigation Discovery
-http://217.182.173.184:8000/live/micha/micha/10520.ts
-#EXTINF:-1,IT: Premium Joy
-http://217.182.173.184:8000/live/micha/micha/10521.ts
-#EXTINF:-1,IT: Premium Joy  24
-http://217.182.173.184:8000/live/micha/micha/10522.ts
-#EXTINF:-1,IT: Premium Stories
-http://217.182.173.184:8000/live/micha/micha/10523.ts
-#EXTINF:-1,IT: Premium Action  24
-http://217.182.173.184:8000/live/micha/micha/2977.ts
-#EXTINF:-1,IT: Premium Action HD
-http://217.182.173.184:8000/live/micha/micha/2978.ts
-#EXTINF:-1,IT: Premium Cinema 2 HD
-http://217.182.173.184:8000/live/micha/micha/2990.ts
-#EXTINF:-1,IT: Premium Cinema Comedy
-http://217.182.173.184:8000/live/micha/micha/3032.ts
-#EXTINF:-1,IT: Premium Crime
-http://217.182.173.184:8000/live/micha/micha/3033.ts
-#EXTINF:-1,IT: Premium Crime 24
-http://217.182.173.184:8000/live/micha/micha/3034.ts
-#EXTINF:-1,IT: Premium Joi
-http://217.182.173.184:8000/live/micha/micha/2983.ts
-#EXTINF:-1,IT: Premium Sport HD
-http://217.182.173.184:8000/live/micha/micha/2991.ts
-#EXTINF:-1,IT: Premium Studio Universal
-http://217.182.173.184:8000/live/micha/micha/2984.ts
-#EXTINF:-1,IT: Real Time 1
-http://217.182.173.184:8000/live/micha/micha/10539.ts
-#EXTINF:-1,IT: Sky Calcio 1 HD
-http://217.182.173.184:8000/live/micha/micha/10556.ts
-#EXTINF:-1,IT: Sky Caccia
-http://217.182.173.184:8000/live/micha/micha/10542.ts
-#EXTINF:-1,IT: Sky Calcio 2
-http://217.182.173.184:8000/live/micha/micha/10555.ts
-#EXTINF:-1,IT: Sky Calcio 3
-http://217.182.173.184:8000/live/micha/micha/10554.ts
-#EXTINF:-1,IT: Sky Calcio 4
-http://217.182.173.184:8000/live/micha/micha/10553.ts
-#EXTINF:-1,IT: Sky Calcio 5
-http://217.182.173.184:8000/live/micha/micha/10552.ts
-#EXTINF:-1,IT: Sky Uno HD
-http://217.182.173.184:8000/live/micha/micha/10550.ts
-#EXTINF:-1,IT: SUPER!
-http://217.182.173.184:8000/live/micha/micha/10529.ts
-#EXTINF:-1,IT: Supertennis
-http://217.182.173.184:8000/live/micha/micha/10531.ts
-#EXTINF:-1,IT: Boing
-http://217.182.173.184:8000/live/micha/micha/2994.ts
-#EXTINF:-1,IT: Canale 5 HD
-http://217.182.173.184:8000/live/micha/micha/3039.ts
-#EXTINF:-1,IT: Nat Geo  HD
-http://217.182.173.184:8000/live/micha/micha/2976.ts
-#EXTINF:-1,IT: Discovery Channel HD
-http://217.182.173.184:8000/live/micha/micha/2973.ts
-#EXTINF:-1,IT: Discovery Science HD
-http://217.182.173.184:8000/live/micha/micha/2974.ts
-#EXTINF:-1,IT: Discovery Travel & Living HD
-http://217.182.173.184:8000/live/micha/micha/2975.ts
-#EXTINF:-1,IT: Nikelodeon
-http://217.182.173.184:8000/live/micha/micha/2998.ts
-#EXTINF:-1,IT: Disney XD
-http://217.182.173.184:8000/live/micha/micha/2997.ts
-#EXTINF:-1,IT: Disney Chanel
-http://217.182.173.184:8000/live/micha/micha/10547.ts
-#EXTINF:-1,IT: Cartoon Network
-http://217.182.173.184:8000/live/micha/micha/2995.ts
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11781.ts
+#EXTINF:-1,IT: Rai Sport 1 HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11780.ts
+#EXTINF:-1,IT: Rai Storia
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11778.ts
+#EXTINF:-1,IT: RAI YOYO
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14258.ts
+#EXTINF:-1,IT: Real Time HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11777.ts
+#EXTINF:-1,IT: RTL 102.5
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11776.ts
+#EXTINF:-1,IT: SENATO TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14255.ts
+#EXTINF:-1,IT: Radio 105
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11788.ts
+#EXTINF:-1,IT: Rai 1 HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19064.ts
+#EXTINF:-1,IT: Rai Sport 2
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19058.ts
+#EXTINF:-1,IT: TRM h24
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19101.ts
+#EXTINF:-1,IT: TSN
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19100.ts
+#EXTINF:-1,IT: Video Calabria
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19103.ts
+#EXTINF:-1,IT: TeleArena
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19099.ts
+#EXTINF:-1,IT: SuperTV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19098.ts
+#EXTINF:-1,IT: Sky Atlantic
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18214.ts
+#EXTINF:-1,IT: RTV  38
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19097.ts
+#EXTINF:-1,IT: Rete 4 HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19063.ts
+#EXTINF:-1,IT: Video Brescia
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19102.ts
+#EXTINF:-1,IT: Cielo HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11800.ts
+#EXTINF:-1,IT: Dmax HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11799.ts
 #EXTINF:-1,IT: Cartoonito
-http://217.182.173.184:8000/live/micha/micha/2996.ts
-#EXTINF:-1,IT: Fox Animation HD
-http://217.182.173.184:8000/live/micha/micha/2992.ts
-#EXTINF:-1,IT: Euro Sport 1
-http://217.182.173.184:8000/live/micha/micha/3020.ts
-#EXTINF:-1,IT: Euro Sport 2
-http://217.182.173.184:8000/live/micha/micha/3021.ts
-#EXTINF:-1,IT: Fox Sports HD
-http://217.182.173.184:8000/live/micha/micha/3024.ts
-#EXTINF:-1,IT: JUVENTUS CHANNEL
-http://217.182.173.184:8000/live/micha/micha/3026.ts
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19059.ts
+#EXTINF:-1,IT: Mediaset Extra
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11791.ts
+#EXTINF:-1,IT: Mediaset Italia 2
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11790.ts
+#EXTINF:-1,IT: SKT TG 24
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14256.ts
+#EXTINF:-1,IT: Sportitalia
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11775.ts
+#EXTINF:-1,IT: Super Tennis HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11774.ts
+#EXTINF:-1,IT: TGCom 24
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11773.ts
+#EXTINF:-1,IT: Alice
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11804.ts
+#EXTINF:-1,IT: Boing
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11803.ts
+#EXTINF:-1,IT: Canale 21
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11802.ts
+#EXTINF:-1,IT: Canale 5 HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11812.ts
+#EXTINF:-1,IT: Canale 8
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11801.ts
+#EXTINF:-1,IT: Carina tv
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19094.ts
+#EXTINF:-1,IT: Focus
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11796.ts
+#EXTINF:-1,IT: Giallo
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11795.ts
+#EXTINF:-1,IT: Iris
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11794.ts
+#EXTINF:-1,IT: Italia 1 HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11811.ts
 #EXTINF:-1,IT: La 5
-http://217.182.173.184:8000/live/micha/micha/3040.ts
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11793.ts
+#EXTINF:-1,IT: LA 7
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14253.ts
 #EXTINF:-1,IT: LA 7 HD
-http://217.182.173.184:8000/live/micha/micha/3041.ts
-#EXTINF:-1,IT: Milan TV
-http://217.182.173.184:8000/live/micha/micha/3019.ts
-#EXTINF:-1,IT: Primafilla 1
-http://217.182.173.184:8000/live/micha/micha/3018.ts
-#EXTINF:-1,IT: Primafilla 2
-http://217.182.173.184:8000/live/micha/micha/3017.ts
-#EXTINF:-1,IT: Primafilla 3
-http://217.182.173.184:8000/live/micha/micha/3016.ts
-#EXTINF:-1,IT: Primafilla 4
-http://217.182.173.184:8000/live/micha/micha/3015.ts
-#EXTINF:-1,IT: Primafilla 5
-http://217.182.173.184:8000/live/micha/micha/3014.ts
-#EXTINF:-1,IT: Primafilla 6
-http://217.182.173.184:8000/live/micha/micha/3013.ts
-#EXTINF:-1,IT: Primafilla 8
-http://217.182.173.184:8000/live/micha/micha/3012.ts
-#EXTINF:-1,IT: Primafila 9 HD
-http://217.182.173.184:8000/live/micha/micha/10538.ts
-#EXTINF:-1,IT: Primafilla 10
-http://217.182.173.184:8000/live/micha/micha/3011.ts
-#EXTINF:-1,IT: Primafila 11 HD
-http://217.182.173.184:8000/live/micha/micha/10537.ts
-#EXTINF:-1,IT: Primafila 12 HD
-http://217.182.173.184:8000/live/micha/micha/10536.ts
-#EXTINF:-1,IT: Primafila 13 HD
-http://217.182.173.184:8000/live/micha/micha/10535.ts
-#EXTINF:-1,IT: Primafila 14 HD
-http://217.182.173.184:8000/live/micha/micha/10534.ts
-#EXTINF:-1,IT: Primafila 15 HD
-http://217.182.173.184:8000/live/micha/micha/10533.ts
-#EXTINF:-1,IT: Primafila 16 HD
-http://217.182.173.184:8000/live/micha/micha/10532.ts
-#EXTINF:-1,IT: Rete 4
-http://217.182.173.184:8000/live/micha/micha/3036.ts
-#EXTINF:-1,IT: Roma Channel
-http://217.182.173.184:8000/live/micha/micha/3035.ts
-#EXTINF:-1,IT: RSI La1 HD
-http://217.182.173.184:8000/live/micha/micha/3038.ts
-#EXTINF:-1,IT: RSI La2 HD
-http://217.182.173.184:8000/live/micha/micha/3037.ts
-#EXTINF:-1,IT: Sky Cinema  24 HD
-http://217.182.173.184:8000/live/micha/micha/3002.ts
-#EXTINF:-1,IT: Sky Cinema 1 HD
-http://217.182.173.184:8000/live/micha/micha/3006.ts
-#EXTINF:-1,IT: Sky Cinema Classic HD (2)
-http://217.182.173.184:8000/live/micha/micha/3007.ts
-#EXTINF:-1,IT: Sky Cinema Comedy HD
-http://217.182.173.184:8000/live/micha/micha/3003.ts
-#EXTINF:-1,IT: Sky Cinema Comedy HD (2)
-http://217.182.173.184:8000/live/micha/micha/3008.ts
-#EXTINF:-1,IT: Sky Cinema Cult HD
-http://217.182.173.184:8000/live/micha/micha/3009.ts
-#EXTINF:-1,IT: Sky Cinema Family HD
-http://217.182.173.184:8000/live/micha/micha/3001.ts
-#EXTINF:-1,IT: Sky Cinema Hits HD (2)
-http://217.182.173.184:8000/live/micha/micha/3010.ts
-#EXTINF:-1,IT: Sky Cinema Max  1 HD
-http://217.182.173.184:8000/live/micha/micha/3005.ts
-#EXTINF:-1,IT: Sky Cinema Max HD
-http://217.182.173.184:8000/live/micha/micha/3004.ts
-#EXTINF:-1,IT: Sky Cinema Passion
-http://217.182.173.184:8000/live/micha/micha/3000.ts
-#EXTINF:-1,IT: Sky Disney Junior
-http://217.182.173.184:8000/live/micha/micha/2993.ts
-#EXTINF:-1,IT: Sky it Premium_-Action_24
-http://217.182.173.184:8000/live/micha/micha/2985.ts
-#EXTINF:-1,IT: Sky it Premium_-Disney_Channel
-http://217.182.173.184:8000/live/micha/micha/2986.ts
-#EXTINF:-1,IT: Sky it Premium_-Disney_Junior--1
-http://217.182.173.184:8000/live/micha/micha/2987.ts
-#EXTINF:-1,IT: Sky it Premium_Cinema_2_24
-http://217.182.173.184:8000/live/micha/micha/2988.ts
-#EXTINF:-1,IT: Sky it Premium_Discovery_World
-http://217.182.173.184:8000/live/micha/micha/2989.ts
-#EXTINF:-1,IT: SKY Sport 2 HD
-http://217.182.173.184:8000/live/micha/micha/3028.ts
-#EXTINF:-1,IT: Sky Sport 2 HD 2
-http://217.182.173.184:8000/live/micha/micha/3029.ts
-#EXTINF:-1,IT: Sky Sport 3 HD 2
-http://217.182.173.184:8000/live/micha/micha/3027.ts
-#EXTINF:-1,IT: Sky Sport F1 HD
-http://217.182.173.184:8000/live/micha/micha/3030.ts
-#EXTINF:-1,IT: Sky Sport Moto GP HD
-http://217.182.173.184:8000/live/micha/micha/3031.ts
-#EXTINF:-1,IT: Sky Sport24 HD
-http://217.182.173.184:8000/live/micha/micha/3022.ts
-#EXTINF:-1,IT: Sport Italia
-http://217.182.173.184:8000/live/micha/micha/3023.ts
-#EXTINF:-1,IT: SuperTennis HD
-http://217.182.173.184:8000/live/micha/micha/3025.ts
-#EXTINF:-1,IT: Tg Com 24
-http://217.182.173.184:8000/live/micha/micha/2999.ts
-
-#EXTINF:-1,It- Eurosport
-http://linux-app.tv:6204/live/kkk1/kkk1/9464.ts
-#EXTINF:-1,It- Eurosport 2 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9463.ts
-#EXTINF:-1,It- Fox Crime HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9462.ts
-#EXTINF:-1,It- Fox HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9461.ts
-#EXTINF:-1,It- Fox Life HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9460.ts
-#EXTINF:-1,It- Premium Action HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9459.ts
-#EXTINF:-1,It- Premium Calcio
-http://linux-app.tv:6204/live/kkk1/kkk1/9458.ts
-#EXTINF:-1,It- Premium Calcio 2 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9457.ts
-#EXTINF:-1,It- Premium Cinema Energy
-http://linux-app.tv:6204/live/kkk1/kkk1/9456.ts
-#EXTINF:-1,It- Premium Cinema HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9455.ts
-#EXTINF:-1,It- Premium Crime HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9454.ts
-#EXTINF:-1,It- Premium Emotion HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9453.ts
-#EXTINF:-1,It- Premium Fox Sport HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9452.ts
-#EXTINF:-1,It- Premium Sport 2
-http://linux-app.tv:6204/live/kkk1/kkk1/9451.ts
-#EXTINF:-1,It- Premium Sport HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9450.ts
-#EXTINF:-1,It- Premium Sport HD 2
-http://linux-app.tv:6204/live/kkk1/kkk1/9449.ts
-#EXTINF:-1,It- Premium Stories HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9448.ts
-#EXTINF:-1,It- RAI 1 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9447.ts
-#EXTINF:-1,It- RAI 2 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9446.ts
-#EXTINF:-1,It- RAI 3 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9445.ts
-#EXTINF:-1,It- RAI 4 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9444.ts
-#EXTINF:-1,It- RAI 5
-http://linux-app.tv:6204/live/kkk1/kkk1/9443.ts
-#EXTINF:-1,It- Rai News 24
-http://linux-app.tv:6204/live/kkk1/kkk1/9442.ts
-#EXTINF:-1,It- Rai Sports 1
-http://linux-app.tv:6204/live/kkk1/kkk1/9441.ts
-#EXTINF:-1,It- Rai Sports 2
-http://linux-app.tv:6204/live/kkk1/kkk1/9440.ts
-#EXTINF:-1,It- Sky Calcio 1 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9439.ts
-#EXTINF:-1,It- Sky Calcio 2 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9438.ts
-#EXTINF:-1,It- Sky Calcio 3 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9437.ts
-#EXTINF:-1,It- Sky Calcio 4 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9436.ts
-#EXTINF:-1,It- Sky Cinema  24 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9435.ts
-#EXTINF:-1,It- Sky Cinema 1 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9434.ts
-#EXTINF:-1,It- Sky Cinema Atlantic HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9433.ts
-#EXTINF:-1,It- Sky Cinema Classic HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9432.ts
-#EXTINF:-1,It- Sky Cinema Comedy HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9431.ts
-#EXTINF:-1,It- Sky Cinema Cult HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9430.ts
-#EXTINF:-1,It- Sky Cinema Family HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9429.ts
-#EXTINF:-1,It- Sky Cinema Hits HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9428.ts
-#EXTINF:-1,It- Sky Cinema Max HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9427.ts
-#EXTINF:-1,It- SKY Cinema Passion HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9426.ts
-#EXTINF:-1,It- Sky Sport 1 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9425.ts
-#EXTINF:-1,It- Sky Sport 2 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9424.ts
-#EXTINF:-1,It- Sky Sport 24 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9423.ts
-#EXTINF:-1,It- Sky Sport 3 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9422.ts
-#EXTINF:-1,It- Sky Sport F1 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9421.ts
-#EXTINF:-1,It- Sky Sport MotoGP HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9420.ts
-#EXTINF:-1,It- Sky Supercalcio
-http://linux-app.tv:6204/live/kkk1/kkk1/9419.ts
-#EXTINF:-1,It- Sky Supertennis
-http://linux-app.tv:6204/live/kkk1/kkk1/9418.ts
-#EXTINF:-1,It- Sky Uno HD
-http://linux-app.tv:6204/live/kkk1/kkk1/9417.ts
-#EXTINF:-1,It- Sport Italia
-http://linux-app.tv:6204/live/kkk1/kkk1/9416.ts
-#EXTINF:-1,It- PrimaFila 01 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/10742.ts
-#EXTINF:-1,It- PrimaFila 02 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/10741.ts
-#EXTINF:-1,It- PrimaFila 03 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/10740.ts
-#EXTINF:-1,It- PrimaFila 04 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/10739.ts
-#EXTINF:-1,It- PrimaFila 05 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/10738.ts
-#EXTINF:-1,It- PrimaFila 06 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/10737.ts
-#EXTINF:-1,It- PrimaFila 07 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/10736.ts
-#EXTINF:-1,It- PrimaFila 08 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/10735.ts
-#EXTINF:-1,It- PrimaFila 09 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/10734.ts
-#EXTINF:-1,It- PrimaFila 10 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/10733.ts
-#EXTINF:-1,It- PrimaFila 11 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/10732.ts
-#EXTINF:-1,It- PrimaFila 12 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/10731.ts
-#EXTINF:-1,It- PrimaFila 13 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/10730.ts
-#EXTINF:-1,It- PrimaFila 14 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/10729.ts
-#EXTINF:-1,It- PrimaFila 15 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/10728.ts
-#EXTINF:-1,It- PrimaFila 16 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/10727.ts
-#EXTINF:-1,It- PrimaFila 17 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/10726.ts
-#EXTINF:-1,It- PrimaFila 18 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/10725.ts
-#EXTINF:-1,It- PrimaFila 19 HD
-http://linux-app.tv:6204/live/kkk1/kkk1/10724.ts
-
-#EXTINF:-1,Rai 1 HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/10.ts
-#EXTINF:-1,Rai 2 HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/9.ts
-#EXTINF:-1,Rai 3 HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/8.ts
-#EXTINF:-1,Rete 4 HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/7.ts
-#EXTINF:-1,Canale 5 HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/6.ts
-#EXTINF:-1,Italia 1 HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/5.ts
-#EXTINF:-1,La 7 HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/4.ts
-#EXTINF:-1,TV 8
-http://nextv.webhop.me:80/live/donatello/Donatello1/3.ts
-#EXTINF:-1,Nove HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/11.ts
-#EXTINF:-1,RSI LA 1 HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/2.ts
-#EXTINF:-1,RSI LA 2 HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/1.ts
-#EXTINF:-1,Rai 1 SD
-http://nextv.webhop.me:80/live/donatello/Donatello1/8005.ts
-#EXTINF:-1,Canale 5 SD
-http://nextv.webhop.me:80/live/donatello/Donatello1/7224.ts
-#EXTINF:-1,--- CINEMA ---
-http://nextv.webhop.me:80/live/donatello/Donatello1/12.ts
-#EXTINF:-1,Sky Cinema 1 FullHD
-http://nextv.webhop.me:80/live/donatello/Donatello1/6867.ts
-#EXTINF:-1,Sky Cinema 1 HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/25.ts
-#EXTINF:-1,Sky Cinema 1 SD
-http://nextv.webhop.me:80/live/donatello/Donatello1/500.ts
-#EXTINF:-1,Sky Cinema +1 FullHD
-http://nextv.webhop.me:80/live/donatello/Donatello1/14738.ts
-#EXTINF:-1,Sky Cinema +1 HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/26.ts
-#EXTINF:-1,Sky Cinema +1 SD
-http://nextv.webhop.me:80/live/donatello/Donatello1/501.ts
-#EXTINF:-1,Sky Cinema +24 FullHD
-http://nextv.webhop.me:80/live/donatello/Donatello1/6868.ts
-#EXTINF:-1,Sky Cinema +24 HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/24.ts
-#EXTINF:-1,Sky Cinema +24 SD
-http://nextv.webhop.me:80/live/donatello/Donatello1/503.ts
-#EXTINF:-1,Sky Cinema Hits FullHD
-http://nextv.webhop.me:80/live/donatello/Donatello1/6869.ts
-#EXTINF:-1,Sky Cinema Hits HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/19.ts
-#EXTINF:-1,Sky Cinema Hits SD
-http://nextv.webhop.me:80/live/donatello/Donatello1/502.ts
-#EXTINF:-1,Sky Cinema Family FullHD
-http://nextv.webhop.me:80/live/donatello/Donatello1/6870.ts
-#EXTINF:-1,Sky Cinema Family HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/20.ts
-#EXTINF:-1,Sky Cinema Family SD
-http://nextv.webhop.me:80/live/donatello/Donatello1/505.ts
-#EXTINF:-1,Sky Cinema Family +1 HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/511.ts
-#EXTINF:-1,Sky Cinema Comedy FullHD
-http://nextv.webhop.me:80/live/donatello/Donatello1/6871.ts
-#EXTINF:-1,Sky Cinema Comedy HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/22.ts
-#EXTINF:-1,Sky Cinema Comedy SD
-http://nextv.webhop.me:80/live/donatello/Donatello1/504.ts
-#EXTINF:-1,Sky Cinema Passion FullHD
-http://nextv.webhop.me:80/live/donatello/Donatello1/11245.ts
-#EXTINF:-1,Sky Cinema Passion HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/16.ts
-#EXTINF:-1,Sky Cinema Passion SD
-http://nextv.webhop.me:80/live/donatello/Donatello1/506.ts
-#EXTINF:-1,Sky Cinema Max FullHD
-http://nextv.webhop.me:80/live/donatello/Donatello1/6872.ts
-#EXTINF:-1,Sky Cinema Max HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/17.ts
-#EXTINF:-1,Sky Cinema Max SD
-http://nextv.webhop.me:80/live/donatello/Donatello1/507.ts
-#EXTINF:-1,Sky Cinema Max +1 HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/18.ts
-#EXTINF:-1,Sky Cinema Cult FullHD
-http://nextv.webhop.me:80/live/donatello/Donatello1/11244.ts
-#EXTINF:-1,Sky Cinema Cult HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/21.ts
-#EXTINF:-1,Sky Cinema Cult SD
-http://nextv.webhop.me:80/live/donatello/Donatello1/509.ts
-#EXTINF:-1,SKY Cinema Classics HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/23.ts
-#EXTINF:-1,Rai Movie HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/13.ts
-#EXTINF:-1,Iris
-http://nextv.webhop.me:80/live/donatello/Donatello1/14.ts
-#EXTINF:-1,Cine Sony
-http://nextv.webhop.me:80/live/donatello/Donatello1/13954.ts
-#EXTINF:-1,--- INTRATTENIMENTO ---
-http://nextv.webhop.me:80/live/donatello/Donatello1/27.ts
-#EXTINF:-1,Sky Uno FullHD
-http://nextv.webhop.me:80/live/donatello/Donatello1/5722.ts
-#EXTINF:-1,Sky Uno HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/55.ts
-#EXTINF:-1,Sky Uno SD
-http://nextv.webhop.me:80/live/donatello/Donatello1/2583.ts
-#EXTINF:-1,Sky Uno +1 HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/54.ts
-#EXTINF:-1,Sky Atlantic FullHD
-http://nextv.webhop.me:80/live/donatello/Donatello1/5723.ts
-#EXTINF:-1,Sky Atlantic HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/53.ts
-#EXTINF:-1,Sky Atlantic SD
-http://nextv.webhop.me:80/live/donatello/Donatello1/2584.ts
-#EXTINF:-1,Sky Atlantic +1 HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/52.ts
-#EXTINF:-1,Fox FullHD
-http://nextv.webhop.me:80/live/donatello/Donatello1/6862.ts
-#EXTINF:-1,Fox HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/51.ts
-#EXTINF:-1,Fox +1 HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/50.ts
-#EXTINF:-1,Fox Life FullHD
-http://nextv.webhop.me:80/live/donatello/Donatello1/6864.ts
-#EXTINF:-1,Fox Life HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/49.ts
-#EXTINF:-1,Fox Life +1 HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/48.ts
-#EXTINF:-1,Fox Crime FullHD
-http://nextv.webhop.me:80/live/donatello/Donatello1/6865.ts
-#EXTINF:-1,Fox Crime HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/47.ts
-#EXTINF:-1,Fox Crime +1 HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/46.ts
-#EXTINF:-1,Fox Comedy FullHD
-http://nextv.webhop.me:80/live/donatello/Donatello1/6866.ts
-#EXTINF:-1,Fox Comedy HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/45.ts
-#EXTINF:-1,Fox Animation FullHD
-http://nextv.webhop.me:80/live/donatello/Donatello1/8854.ts
-#EXTINF:-1,Fox Animation HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/44.ts
-#EXTINF:-1,Comedy Central
-http://nextv.webhop.me:80/live/donatello/Donatello1/40.ts
-#EXTINF:-1,Comedy Central +1
-http://nextv.webhop.me:80/live/donatello/Donatello1/11246.ts
-#EXTINF:-1,Zelig TV
-http://nextv.webhop.me:80/live/donatello/Donatello1/15223.ts
-#EXTINF:-1,Real Time HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/39.ts
-#EXTINF:-1,Real Time +1
-http://nextv.webhop.me:80/live/donatello/Donatello1/38.ts
-#EXTINF:-1,Cielo HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/37.ts
-#EXTINF:-1,Giallo
-http://nextv.webhop.me:80/live/donatello/Donatello1/97.ts
-#EXTINF:-1,Lei
-http://nextv.webhop.me:80/live/donatello/Donatello1/36.ts
-#EXTINF:-1,Lei +1
-http://nextv.webhop.me:80/live/donatello/Donatello1/3300.ts
-#EXTINF:-1,La 5
-http://nextv.webhop.me:80/live/donatello/Donatello1/3318.ts
-#EXTINF:-1,La 7D HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/3319.ts
-#EXTINF:-1,Rai Premium
-http://nextv.webhop.me:80/live/donatello/Donatello1/28.ts
-#EXTINF:-1,Rai 4
-http://nextv.webhop.me:80/live/donatello/Donatello1/30.ts
-#EXTINF:-1,Rai 5
-http://nextv.webhop.me:80/live/donatello/Donatello1/29.ts
-#EXTINF:-1,Mediaset 20
-http://nextv.webhop.me:80/live/donatello/Donatello1/14028.ts
-#EXTINF:-1,Grande Fratello 1
-http://nextv.webhop.me:80/live/donatello/Donatello1/15208.ts
-#EXTINF:-1,Grande Fratello 2
-http://nextv.webhop.me:80/live/donatello/Donatello1/15209.ts
-#EXTINF:-1,Mediaset Extra
-http://nextv.webhop.me:80/live/donatello/Donatello1/35.ts
-#EXTINF:-1,Italia 2
-http://nextv.webhop.me:80/live/donatello/Donatello1/33.ts
-#EXTINF:-1,Spike TV
-http://nextv.webhop.me:80/live/donatello/Donatello1/13953.ts
-#EXTINF:-1,Top Crime
-http://nextv.webhop.me:80/live/donatello/Donatello1/32.ts
-#EXTINF:-1,--- SPORT ---
-http://nextv.webhop.me:80/live/donatello/Donatello1/56.ts
-#EXTINF:-1,Sky Sport 24 FullHD
-http://nextv.webhop.me:80/live/donatello/Donatello1/5724.ts
-#EXTINF:-1,Sky Sport 24 HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/67.ts
-#EXTINF:-1,Sky Sport 24 SD
-http://nextv.webhop.me:80/live/donatello/Donatello1/2585.ts
-#EXTINF:-1,Sky Sport 1 FullHD
-http://nextv.webhop.me:80/live/donatello/Donatello1/5725.ts
-#EXTINF:-1,Sky Sport 1 HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/70.ts
-#EXTINF:-1,Sky Sport 1 SD
-http://nextv.webhop.me:80/live/donatello/Donatello1/8882.ts
-#EXTINF:-1,Sky Sport 2 FullHD
-http://nextv.webhop.me:80/live/donatello/Donatello1/14025.ts
-#EXTINF:-1,Sky Sport 2 HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/69.ts
-#EXTINF:-1,Sky Sport 2 SD
-http://nextv.webhop.me:80/live/donatello/Donatello1/9154.ts
-#EXTINF:-1,Sky Sport 3 FullHD
-http://nextv.webhop.me:80/live/donatello/Donatello1/14024.ts
-#EXTINF:-1,Sky Sport 3 HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/68.ts
-#EXTINF:-1,Sky Sport 3 SD
-http://nextv.webhop.me:80/live/donatello/Donatello1/8886.ts
-#EXTINF:-1,Sky Sport Plus FullHD
-http://nextv.webhop.me:80/live/donatello/Donatello1/14737.ts
-#EXTINF:-1,Sky Sport Plus HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/72.ts
-#EXTINF:-1,Sky Sport Mix HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/71.ts
-#EXTINF:-1,Fox Sport FullHD
-http://nextv.webhop.me:80/live/donatello/Donatello1/5726.ts
-#EXTINF:-1,Fox Sport HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/61.ts
-#EXTINF:-1,Sky Sport F1 FullHD
-http://nextv.webhop.me:80/live/donatello/Donatello1/5727.ts
-#EXTINF:-1,Sky Sport F1 HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/73.ts
-#EXTINF:-1,Sky Sport F1 SD
-http://nextv.webhop.me:80/live/donatello/Donatello1/7106.ts
-#EXTINF:-1,Sky Sport F1 +1 HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/14023.ts
-#EXTINF:-1,Sky Sport MotoGP FullHD
-http://nextv.webhop.me:80/live/donatello/Donatello1/5728.ts
-#EXTINF:-1,Sky Sport MotoGP HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/74.ts
-#EXTINF:-1,Sky Sport MotoGP SD
-http://nextv.webhop.me:80/live/donatello/Donatello1/7107.ts
-#EXTINF:-1,Sky Sport MotoGP +1 HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/14022.ts
-#EXTINF:-1,Eurosport 1 HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/57.ts
-#EXTINF:-1,Eurosport 2 HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/58.ts
-#EXTINF:-1,Bike Channell FullHD
-http://nextv.webhop.me:80/live/donatello/Donatello1/11243.ts
-#EXTINF:-1,Bike Channel HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/64.ts
-#EXTINF:-1,AutoMoto TV
-http://nextv.webhop.me:80/live/donatello/Donatello1/13952.ts
-#EXTINF:-1,Sport Italia
-http://nextv.webhop.me:80/live/donatello/Donatello1/66.ts
-#EXTINF:-1,Rai Sport + HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/63.ts
-#EXTINF:-1,UnireSat
-http://nextv.webhop.me:80/live/donatello/Donatello1/4549.ts
-#EXTINF:-1,Class Horse TV
-http://nextv.webhop.me:80/live/donatello/Donatello1/113.ts
-#EXTINF:-1,Super Tennis HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/65.ts
-#EXTINF:-1,WWE Wrestling HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/14431.ts
-#EXTINF:-1,--- CALCIO ---
-http://nextv.webhop.me:80/live/donatello/Donatello1/75.ts
-#EXTINF:-1,TopCalcio 24
-http://nextv.webhop.me:80/live/donatello/Donatello1/630.ts
-#EXTINF:-1,Juventus TV FullHD
-http://nextv.webhop.me:80/live/donatello/Donatello1/11241.ts
-#EXTINF:-1,Juventus TV
-http://nextv.webhop.me:80/live/donatello/Donatello1/88.ts
-#EXTINF:-1,Milan TV FullHD
-http://nextv.webhop.me:80/live/donatello/Donatello1/14328.ts
-#EXTINF:-1,Milan TV
-http://nextv.webhop.me:80/live/donatello/Donatello1/91.ts
-#EXTINF:-1,Inter TV FullHD
-http://nextv.webhop.me:80/live/donatello/Donatello1/14329.ts
-#EXTINF:-1,Inter TV
-http://nextv.webhop.me:80/live/donatello/Donatello1/87.ts
-#EXTINF:-1,Roma TV FullHD
-http://nextv.webhop.me:80/live/donatello/Donatello1/11240.ts
-#EXTINF:-1,Roma TV
-http://nextv.webhop.me:80/live/donatello/Donatello1/90.ts
-#EXTINF:-1,Lazio Style Channel
-http://nextv.webhop.me:80/live/donatello/Donatello1/89.ts
-#EXTINF:-1,Torino Channel
-http://nextv.webhop.me:80/live/donatello/Donatello1/92.ts
-#EXTINF:-1,Sky Calcio Info
-http://nextv.webhop.me:80/live/donatello/Donatello1/13951.ts
-#EXTINF:-1,Sky Supercalcio HD
-http://nextv.webhop.me:80/live/donatello/Donatello1/86.ts
-#EXTINF:-1,Sky Supercalcio SD
-http://nextv.webhop.me:80/live/donatello/Donatello1/226.ts
-
-#EXTINF:-1,It- Eurosport
-http://linux-app.tv:6204/live/Reda/Reda/9464.ts
-#EXTINF:-1,It- Eurosport 2 HD
-http://linux-app.tv:6204/live/Reda/Reda/9463.ts
-#EXTINF:-1,It- Fox Crime HD
-http://linux-app.tv:6204/live/Reda/Reda/9462.ts
-#EXTINF:-1,It- Fox HD
-http://linux-app.tv:6204/live/Reda/Reda/9461.ts
-#EXTINF:-1,It- Fox Life HD
-http://linux-app.tv:6204/live/Reda/Reda/9460.ts
-#EXTINF:-1,It- Premium Action HD
-http://linux-app.tv:6204/live/Reda/Reda/9459.ts
-#EXTINF:-1,It- Premium Calcio
-http://linux-app.tv:6204/live/Reda/Reda/9458.ts
-#EXTINF:-1,It- Premium Calcio 2 HD
-http://linux-app.tv:6204/live/Reda/Reda/9457.ts
-#EXTINF:-1,It- Premium Cinema Energy
-http://linux-app.tv:6204/live/Reda/Reda/9456.ts
-#EXTINF:-1,It- Premium Cinema HD
-http://linux-app.tv:6204/live/Reda/Reda/9455.ts
-#EXTINF:-1,It- Premium Crime HD
-http://linux-app.tv:6204/live/Reda/Reda/9454.ts
-#EXTINF:-1,It- Premium Emotion HD
-http://linux-app.tv:6204/live/Reda/Reda/9453.ts
-#EXTINF:-1,It- Premium Fox Sport HD
-http://linux-app.tv:6204/live/Reda/Reda/9452.ts
-#EXTINF:-1,It- Premium Sport 2
-http://linux-app.tv:6204/live/Reda/Reda/9451.ts
-#EXTINF:-1,It- Premium Sport HD
-http://linux-app.tv:6204/live/Reda/Reda/9450.ts
-#EXTINF:-1,It- Premium Sport HD 2
-http://linux-app.tv:6204/live/Reda/Reda/9449.ts
-#EXTINF:-1,It- Premium Stories HD
-http://linux-app.tv:6204/live/Reda/Reda/9448.ts
-#EXTINF:-1,It- RAI 1 HD
-http://linux-app.tv:6204/live/Reda/Reda/9447.ts
-#EXTINF:-1,It- RAI 2 HD
-http://linux-app.tv:6204/live/Reda/Reda/9446.ts
-#EXTINF:-1,It- RAI 3 HD
-http://linux-app.tv:6204/live/Reda/Reda/9445.ts
-#EXTINF:-1,It- RAI 4 HD
-http://linux-app.tv:6204/live/Reda/Reda/9444.ts
-#EXTINF:-1,It- RAI 5
-http://linux-app.tv:6204/live/Reda/Reda/9443.ts
-#EXTINF:-1,It- Rai News 24
-http://linux-app.tv:6204/live/Reda/Reda/9442.ts
-#EXTINF:-1,It- Rai Sports 1
-http://linux-app.tv:6204/live/Reda/Reda/9441.ts
-#EXTINF:-1,It- Rai Sports 2
-http://linux-app.tv:6204/live/Reda/Reda/9440.ts
-#EXTINF:-1,It- Sky Calcio 1 HD
-http://linux-app.tv:6204/live/Reda/Reda/9439.ts
-#EXTINF:-1,It- Sky Calcio 2 HD
-http://linux-app.tv:6204/live/Reda/Reda/9438.ts
-#EXTINF:-1,It- Sky Calcio 3 HD
-http://linux-app.tv:6204/live/Reda/Reda/9437.ts
-#EXTINF:-1,It- Sky Calcio 4 HD
-http://linux-app.tv:6204/live/Reda/Reda/9436.ts
-#EXTINF:-1,It- Sky Cinema  24 HD
-http://linux-app.tv:6204/live/Reda/Reda/9435.ts
-#EXTINF:-1,It- Sky Cinema 1 HD
-http://linux-app.tv:6204/live/Reda/Reda/9434.ts
-#EXTINF:-1,It- Sky Cinema Atlantic HD
-http://linux-app.tv:6204/live/Reda/Reda/9433.ts
-#EXTINF:-1,It- Sky Cinema Classic HD
-http://linux-app.tv:6204/live/Reda/Reda/9432.ts
-#EXTINF:-1,It- Sky Cinema Comedy HD
-http://linux-app.tv:6204/live/Reda/Reda/9431.ts
-#EXTINF:-1,It- Sky Cinema Cult HD
-http://linux-app.tv:6204/live/Reda/Reda/9430.ts
-#EXTINF:-1,It- Sky Cinema Family HD
-http://linux-app.tv:6204/live/Reda/Reda/9429.ts
-#EXTINF:-1,It- Sky Cinema Hits HD
-http://linux-app.tv:6204/live/Reda/Reda/9428.ts
-#EXTINF:-1,It- Sky Cinema Max HD
-http://linux-app.tv:6204/live/Reda/Reda/9427.ts
-#EXTINF:-1,It- SKY Cinema Passion HD
-http://linux-app.tv:6204/live/Reda/Reda/9426.ts
-#EXTINF:-1,It- Sky Sport 1 HD
-http://linux-app.tv:6204/live/Reda/Reda/9425.ts
-#EXTINF:-1,It- Sky Sport 2 HD
-http://linux-app.tv:6204/live/Reda/Reda/9424.ts
-#EXTINF:-1,It- Sky Sport 24 HD
-http://linux-app.tv:6204/live/Reda/Reda/9423.ts
-#EXTINF:-1,It- Sky Sport 3 HD
-http://linux-app.tv:6204/live/Reda/Reda/9422.ts
-#EXTINF:-1,It- Sky Sport F1 HD
-http://linux-app.tv:6204/live/Reda/Reda/9421.ts
-#EXTINF:-1,It- Sky Sport MotoGP HD
-http://linux-app.tv:6204/live/Reda/Reda/9420.ts
-#EXTINF:-1,It- Sky Supercalcio
-http://linux-app.tv:6204/live/Reda/Reda/9419.ts
-#EXTINF:-1,It- Sky Supertennis
-http://linux-app.tv:6204/live/Reda/Reda/9418.ts
-#EXTINF:-1,It- Sky Uno HD
-http://linux-app.tv:6204/live/Reda/Reda/9417.ts
-#EXTINF:-1,It- Sport Italia
-http://linux-app.tv:6204/live/Reda/Reda/9416.ts
-#EXTINF:-1,It- PrimaFila 01 HD
-http://linux-app.tv:6204/live/Reda/Reda/10742.ts
-#EXTINF:-1,It- PrimaFila 02 HD
-http://linux-app.tv:6204/live/Reda/Reda/10741.ts
-#EXTINF:-1,It- PrimaFila 03 HD
-http://linux-app.tv:6204/live/Reda/Reda/10740.ts
-#EXTINF:-1,It- PrimaFila 04 HD
-http://linux-app.tv:6204/live/Reda/Reda/10739.ts
-#EXTINF:-1,It- PrimaFila 05 HD
-http://linux-app.tv:6204/live/Reda/Reda/10738.ts
-#EXTINF:-1,It- PrimaFila 06 HD
-http://linux-app.tv:6204/live/Reda/Reda/10737.ts
-#EXTINF:-1,It- PrimaFila 07 HD
-http://linux-app.tv:6204/live/Reda/Reda/10736.ts
-#EXTINF:-1,It- PrimaFila 08 HD
-http://linux-app.tv:6204/live/Reda/Reda/10735.ts
-#EXTINF:-1,It- PrimaFila 09 HD
-http://linux-app.tv:6204/live/Reda/Reda/10734.ts
-#EXTINF:-1,It- PrimaFila 10 HD
-http://linux-app.tv:6204/live/Reda/Reda/10733.ts
-#EXTINF:-1,It- PrimaFila 11 HD
-http://linux-app.tv:6204/live/Reda/Reda/10732.ts
-#EXTINF:-1,It- PrimaFila 12 HD
-http://linux-app.tv:6204/live/Reda/Reda/10731.ts
-#EXTINF:-1,It- PrimaFila 13 HD
-http://linux-app.tv:6204/live/Reda/Reda/10730.ts
-#EXTINF:-1,It- PrimaFila 14 HD
-http://linux-app.tv:6204/live/Reda/Reda/10729.ts
-#EXTINF:-1,It- PrimaFila 15 HD
-http://linux-app.tv:6204/live/Reda/Reda/10728.ts
-#EXTINF:-1,It- PrimaFila 16 HD
-http://linux-app.tv:6204/live/Reda/Reda/10727.ts
-#EXTINF:-1,It- PrimaFila 17 HD
-http://linux-app.tv:6204/live/Reda/Reda/10726.ts
-#EXTINF:-1,It- PrimaFila 18 HD
-http://linux-app.tv:6204/live/Reda/Reda/10725.ts
-#EXTINF:-1,It- PrimaFila 19 HD
-http://linux-app.tv:6204/live/Reda/Reda/10724.ts
-
-#EXTINF:-1,IT RAI 1
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12249.ts
-#EXTINF:-1,IT RAI 2
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12248.ts
-#EXTINF:-1,IT RAI 3
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12247.ts
-#EXTINF:-1,IT RAI 4
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12246.ts
-#EXTINF:-1,IT RAI 5
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12245.ts
-#EXTINF:-1,IT RAI GULP
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12244.ts
-#EXTINF:-1,IT RAI MOVIES
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12243.ts
-#EXTINF:-1,IT RAI NEWS 24
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12242.ts
-#EXTINF:-1,IT RAI PREMIUM
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12241.ts
-#EXTINF:-1,IT RAI SCUOLA
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12240.ts
-#EXTINF:-1,IT RAI SPORT 1
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12239.ts
-#EXTINF:-1,IT RAI STORIA
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12238.ts
-#EXTINF:-1,IT RAI YOYO
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12237.ts
-#EXTINF:-1,IT CANALE 5
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12235.ts
-#EXTINF:-1,IT CARTOONITO
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12234.ts
-#EXTINF:-1,IT IRIS
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12233.ts
-#EXTINF:-1,IT ITALIA 1
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12232.ts
-#EXTINF:-1,IT LA 5
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12231.ts
-#EXTINF:-1,IT LA 7
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12230.ts
-#EXTINF:-1,IT LA 7D
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12229.ts
-#EXTINF:-1,IT MEDIASAT DUE
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12228.ts
-#EXTINF:-1,IT MEDIASET EXTRA
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12227.ts
-#EXTINF:-1,IT RETE 4
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12236.ts
-#EXTINF:-1,IT TG COM 24
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12226.ts
-#EXTINF:-1,IT TOP CRIME
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12225.ts
-#EXTINF:-1,IT PRIMA FILA 1 HD
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12202.ts
-#EXTINF:-1,IT PRIMA FILA 2
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12200.ts
-#EXTINF:-1,IT PRIMA FILA 3
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12199.ts
-#EXTINF:-1,IT PRIMA FILA 4
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12198.ts
-#EXTINF:-1,IT PRIMA FILA 5
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12197.ts
-#EXTINF:-1,IT PRIMA FILA 6
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12196.ts
-#EXTINF:-1,IT PRIMA FILA 7
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12195.ts
-#EXTINF:-1,IT PRIMA FILA 8
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12194.ts
-#EXTINF:-1,IT PRIMA FILA 9
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12193.ts
-#EXTINF:-1,IT PRIMA FILA 10
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12201.ts
-#EXTINF:-1,IT SKY ANIMAL PLANET
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12191.ts
-#EXTINF:-1,IT SKY CALCIO 1 HD
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12190.ts
-#EXTINF:-1,IT SKY CALCIO 2 HD
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12189.ts
-#EXTINF:-1,IT SKY CALCIO 3 HD
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12188.ts
-#EXTINF:-1,IT SKY CINEMA CLASSIC HD
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12187.ts
-#EXTINF:-1,IT SKY CINEMA COMEDY HD
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12186.ts
-#EXTINF:-1,IT SKY CINEMA CULT HD
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12185.ts
-#EXTINF:-1,IT SKY CINEMA FAMILY HD
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12184.ts
-#EXTINF:-1,IT SKY CINEMA PASSION HD
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12183.ts
-#EXTINF:-1,IT SKY DISCOVERY HD
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12182.ts
-#EXTINF:-1,IT SKY DISCOVERY SCIENCE HD
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12181.ts
-#EXTINF:-1,IT SKY DISNEY JUNIOR HD
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12180.ts
-#EXTINF:-1,IT SKY DMAX HD
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12179.ts
-#EXTINF:-1,IT SKY FOX HD
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12178.ts
-#EXTINF:-1,IT SKY FOX LIFE HD
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12177.ts
-#EXTINF:-1,IT SKY FOX SPORT HD
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12176.ts
-#EXTINF:-1,IT SKY NAT GEO PEOPLE HD
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12175.ts
-#EXTINF:-1,IT SKY NAT GEO WILD HD
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12174.ts
-#EXTINF:-1,IT SKY NATIONA GEO HD
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12173.ts
-#EXTINF:-1,IT SKY SPORT 1 HD ITALIA
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12172.ts
-#EXTINF:-1,IT SKY SPORT 2 HD ITALIA
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12171.ts
-#EXTINF:-1,IT SKY SPORT 24 HD
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12170.ts
-#EXTINF:-1,IT SKY SPORT 3 HD ITALIA
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12169.ts
-#EXTINF:-1,IT SKY SUPER CALCIO HD
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12168.ts
-#EXTINF:-1,IT SKY UNO HD
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12167.ts
-#EXTINF:-1,IT PREMIUM ACTION
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12223.ts
-#EXTINF:-1,IT PREMIUM ACTION 24
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12222.ts
-#EXTINF:-1,IT PREMIUM CALCIO 2
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12221.ts
-#EXTINF:-1,IT PREMIUM CALCIO 3
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12220.ts
-#EXTINF:-1,IT PREMIUM CALCIO HD
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12219.ts
-#EXTINF:-1,IT PREMIUM CAROON NETWORK
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12218.ts
-#EXTINF:-1,IT PREMIUM CINEMA 2 24 HD
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12217.ts
-#EXTINF:-1,IT PREMIUM CINEMA 2 HD
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12216.ts
-#EXTINF:-1,IT PREMIUM CINEMA 24
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12215.ts
-#EXTINF:-1,IT PREMIUM CINEMA HD
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12214.ts
-#EXTINF:-1,IT PREMIUM COMEDY HD
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12213.ts
-#EXTINF:-1,IT PREMIUM CRIME 24
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12212.ts
-#EXTINF:-1,IT PREMIUM CRIME HD
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12211.ts
-#EXTINF:-1,IT PREMIUM EMOTION
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12210.ts
-#EXTINF:-1,IT PREMIUM ENERGY
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12209.ts
-#EXTINF:-1,IT PREMIUM JOY
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12208.ts
-#EXTINF:-1,IT PREMIUM SPORT 2 HD
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12207.ts
-#EXTINF:-1,IT PREMIUM SPORT HD
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12206.ts
-#EXTINF:-1,IT PREMIUM STORIES
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12205.ts
-#EXTINF:-1,IT PREMIUM STUDIO UNIVERSAL
-http://ip.opentv.cz:8000/live/0010105893466442/0010105893466442/12204.ts
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11810.ts
+#EXTINF:-1,IT: Radio Italia TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11787.ts
+#EXTINF:-1,IT: Radio Monte Carlo TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11786.ts
+#EXTINF:-1,IT: Topcrime
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11772.ts
+#EXTINF:-1,IT: RAI  24
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19095.ts
+#EXTINF:-1,IT: SKY TG24
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18389.ts
+#EXTINF:-1,IT: TV 2000
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11771.ts
+#EXTINF:-1,IT: TV 8
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11808.ts
+#EXTINF:-1,IT: TV Luna
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11770.ts
+#EXTINF:-1,IT: VH1
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11769.ts
+#EXTINF:-1,IT: Videolina
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11768.ts
